@@ -1,4 +1,4 @@
-# Ksenia Mihnevich
+# Ksenia Mihnevich    
 #### Junior Frontend Developer
 
 
@@ -20,16 +20,17 @@
 #### - SQL-based
 
 ## Code example
+```
 ##### function printMyName() {
 ##### console.log ('Ksenia')
 ##### }
 ##### setTimeout (printMyName, 1500);
-
+```
 ## Experience
-#### Specialist at the insuarance company CJSIC "Promtransinvest" (currently)
-#### Tourism manager at the tourism agency "Four Seasons"
-#### Accountant at the CI "CenterKurort"
-#### Mechanic at the Road Building Company
+#### Specialist at the insuarance company CJSIC "Promtransinvest" (currently) (since 2019)
+#### Tourism manager at the tourism agency "Four Seasons" (2018-2019)
+#### Accountant at the CI "CenterKurort" (2008-2018)
+#### Mechanic at the Road Building Company (2005-2007)
 
 ## Education
 #### - University degree in technical specialization
