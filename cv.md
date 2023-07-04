@@ -1,7 +1,6 @@
 # Ksenia Mihnevich    
 #### Junior Frontend Developer
 
-
 ## Contact information
 #### - Phone (WhatsApp): +375 29 374 39 95
 #### - Telegram: @KseniaMi
@@ -11,7 +10,8 @@
 #### - Discord: MiKseniaQA
 
 ## About me
-#### Creating some useful things is what attracts me. So I realized that my dream is to become a frontend developer. This is a way to realize my creative potential, accumulated experience, attention to detail and responsibility for the entire workflow.
+#### Creating some useful things is what attracts me. So I realized that my dream is to become a frontend developer.
+#### This is a way to realize my creative potential, accumulated experience, attention to detail and responsibility for the entire workflow.
 
 ## My skills
 #### - HTML, CSS
@@ -27,7 +27,11 @@
 ##### setTimeout (printMyName, 1500);
 ```
 ## Experience
+<<<<<<< HEAD
 #### Specialist at the insuarance company CJSIC "Promtransinvest" (currently) (since 2019)
+=======
+#### Specialist at the insuarance company CJSIC "Promtransinvest" (currently, since 2019)
+>>>>>>> b7f01baacb30119cc9ce0c26de6afbcd2260ed7a
 #### Tourism manager at the tourism agency "Four Seasons" (2018-2019)
 #### Accountant at the CI "CenterKurort" (2008-2018)
 #### Mechanic at the Road Building Company (2005-2007)
