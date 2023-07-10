@@ -1,12 +1,138 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html class = "page" lang="en">
 <head>
-  <title> CV </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>CV</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+   
+    
+    <link rel="icon" href="./assets/svg/flower.ico">  
 
 </head>
-<body>
 
+<body class="page-body">
+    <header class="header"> 
+        <div class="container"> 
+            <nav class="nav-active">
+                <ul class="nav-list">
+                  <li class="nav-item"><a href="#profile" class="nav-link">About me</a></li>
+                  <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                  <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                  <li class="nav-item"><a href="#code-example" class="nav-link">Code example</a></li>
+                  <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                  <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                  <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+            </nav>
+
+       </div>  
+    </header>
+
+    <main class="main"> 
+        <div class="container">
+            <section class = "section profile"  id="profile">
+                    <div class="summery"> 
+                    <h1 class ="section-title"> Mihnevich Ksenia </h1>
+                        <h2> Junior Front-End Developer </h2>
+                        <h3> Creating some useful and nice things is what attracts me most of all. So I realized that my dream is to become a frontend developer.
+                        This is a way to combine my creative potential, accumulated experience, attention to details and responsibility for the entire workflow.</h3> 
+                        
+                    </div>
+                    <div class="profile">                       
+                        <img src="./Ksenia.jpg" width="380" height="600" class="photo" alt="myPhoto">
+                    </div>
+            </section>
+        
+            <section class="section" id="contacts">
+                <h2 class="section-title"> Contact information </h2> 
+                    <ul>
+                        <li><h3>Phone (WhatsApp): +375 29 374-39-06 </h3></li>
+                        <li><h3> Telegram: @KseniaMi </h3></li>
+                        <li><h3> E-mail: ksenia.mihnevich.qa@gmail.com</h3></li>
+                        <li><h3><a href="https://linkedin.com/in/Kseniya-mihnevich-57593a210" target="_blank" class="link-in">
+                                LinkedIn: www.linkedin.com/in/Kseniya-mihnevich-57593a210
+                                </a></h3></li>
+                         <li><h3> Discord: MiKseniaQA </h3></li>
+                    </ul>
+            </section>
+
+            <section class="section" id="skills">
+                <h2 class="section-title"> My skills</h2>
+                    <ul>
+                        <li><h3> HTML, CSS </h3></li>
+                        <li><h3> JavaScript Basics </h3></li>
+                        <li><h3> GitBash, GitHub</h3></li>  
+                        <li><h3> DevTools </h3></li>   
+                        <li><h3> SQL-based </h3></li>                        
+                    </ul>
+            </section>
+
+            <section class="section" id="code-example">
+                <h2 class="section-title"> Code example </h2>
+                    <code>
+                        function printMyName() {
+                    <br>
+                        console.log ('Ksenia')
+                    <br>
+                        }
+                    <br>
+                        setTimeout (printMyName, 1500); 
+                    </code>
+            </section>
+
+            <section class="section" id="experience">
+                <h2 class="section-title"> Experience</h2>
+                    <ul>
+                        <li><h3> Specialist at the insuarance company CJSIC "Promtransinvest" (currently) (since 2019) </h3></li>
+                        <li><h3> Tourism manager at the tourism agency "Four Seasons" (2018-2019) </h3></li>
+                        <li><h3> Accountant at the CI "CenterKurort" (2008-2018) </h3></li>
+                        <li><h3> Mechanic at the Road Building Company (2005-2007)</h3></li>
+                    </ul>
+            </section>
+
+            <section class="section" id="education">
+                <h2 class="section-title"> Education </h2>
+                    <ul>
+                        <li><h3> RSScool (in process)</h3></li>
+                        <li><h3> CS50 lectures (in process) </h3></li>
+                        <li><h3> SkillUp - online course </h3></li> 
+                        <li><h3> University degree in accounting specialization</h3></li>
+                        <li><h3> University degree in technical specialization</h3></li>
+                    </ul>                 
+            </section>
+
+            <section class="section" id="languages">
+                <h2 class="section-title"> Languages </h2>
+                    <ul>
+                        <li><h3> English intermediate </h3></li>
+                        <li><h3> Russian native </h3></li>
+                        <li><h3> Belorussian native </h3></li>  
+                    </ul>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class = "container"> 
+           <div class ="side">
+                <a class="footer-github butt" href="https://github.com/mikseniaqa" target="_blank">
+                My GitHub
+                </a>
+                <p class="footer-year butt">2023-2024</p>
+                <a class="footer-rsschool butt" href="https://rs.school/js/" target="_blank">
+                <img src="assets/svg/rs.ico" width ="64" height="47" alt="RS School">
+                </a>
+            </div>
+        </div> 
+    </footer>
 </body>
-
 </html>
+
+
+
 
