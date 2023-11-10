@@ -27,11 +27,9 @@
 ##### setTimeout (printMyName, 1500);
 ```
 ## Experience
-<<<<<<< HEAD
 #### Specialist at the insuarance company CJSIC "Promtransinvest" (currently) (since 2019)
 =======
 #### Specialist at the insuarance company CJSIC "Promtransinvest" (currently, since 2019)
->>>>>>> b7f01baacb30119cc9ce0c26de6afbcd2260ed7a
 #### Tourism manager at the tourism agency "Four Seasons" (2018-2019)
 #### Accountant at the CI "CenterKurort" (2008-2018)
 #### Mechanic at the Road Building Company (2005-2007)
@@ -43,9 +41,7 @@
 #### - CS50 lectures (in process)
 #### - RSScool (in process) 
 
-## Languages
-#### - Russian native
-#### - Belorussian native
+## Foreign languages
 #### - English intermediate
 
 
