@@ -40,7 +40,7 @@
 #### - CS50 lectures (in process)
 #### - RSScool (in process) 
 
-## Foriegn languages
+## Foreign languages
 #### - English intermediate
 
 
