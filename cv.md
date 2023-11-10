@@ -43,9 +43,7 @@
 #### - CS50 lectures (in process)
 #### - RSScool (in process) 
 
-## Languages
-#### - Russian native
-#### - Belorussian native
+## Forieng language
 #### - English intermediate
 
 
