@@ -3,35 +3,65 @@
     margin: 0;
     border: 0;
 }
-html{
+
+html {
     box-sizing: border-box;
 }
- html, body{
-     height: 100%;
-     width: 100%;
-     font-size: 100%;
- }
- *,
- *::before,
- *::after {
-	 box-sizing: inherit;
- }
 
-input::-ms-clear{display: none;}
-button{cursor: pointer;}
-a, a:visited{text-decoration: none;}
-a:hover{text-decoration: none;}
-ul li{list-style: none;}
-img{vertical-align: top;}
- h1,h2,h3,h4,h5,h6{
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+input::-ms-clear {
+    display: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+a,
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-size: inherit;
     font-weight: 400;
+    color:rgb(7, 0, 0)
 }
 
 .main {
     width: 1440px;
     margin: 0 auto;
 }
+
 body {
     font-family: 'Inter', sans-serif;
     font-style: normal;
@@ -41,28 +71,83 @@ body {
     color: #403F3D;
     background-color: #E1D4C9;
 }
-.header{
+
+.header {
     width: 100%;
 }
-.header_wrapper{
-    width: 1360px;
+
+.main_wrapper{
+    width: 1260px;
     margin: 0 auto;
 }
-.header_nav{
+
+.header_nav {
     display: flex;
+    flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
     background-color: #e2e9e9;
     height: 70px;
 }
 
-.header_item{
+.header_item {
     margin-right: 50px;
     font-weight: 600;
+    font-size: 24px;
 }
-.header_link:hover, .header_link:focus, .header_link:active{
-    opacity: .75;
+.header_link{
+    color: rgb(7, 0, 0);
 }
 
+.header_link:hover,
+.header_link:focus,
+.header_link:active {
+    opacity: 0.75;
+    color: rgb(51, 3, 48);
+}
 
+.profile{
+    display: flex;
+    justify-content: space-around;
 
+}
+.profile_description{
+    width: 70%;
+  
+}
+.description_title{
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+.description_subtitle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 24px;
+    height: 60px;
+}
+h2{
+    font-size: 24px;
+    font-weight: 600;
+}
+.description_text_wrapper{
+    display: flex;
+    justify-content: center;
+}
+.description_text{
+    font-size: 20px;
+    color: rgb(7, 0, 0);
+    line-height: 26px;
+    max-width:600px;
+    margin-top: 30px;
+}
+.photo{
+      width: 35%;
+      margin-top: 30px;
+}
