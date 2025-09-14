@@ -35,6 +35,7 @@
 #### - University degree in technical specialization
 #### - University degree in accounting specialization
 #### - SkillUp - online course
+#### - IT-laboratory of "Mogilev center of regional development"
 #### - CS50 lectures (in process)
 #### - RSScool (in process) 
 
