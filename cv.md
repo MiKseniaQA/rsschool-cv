@@ -2,7 +2,6 @@
 #### Junior Frontend Developer
 
 ## Contact information
-#### - Phone (WhatsApp): +375 29 374 39 95
 #### - Telegram: @KseniaMi
 #### - E-mail: ksenia.mihnevich.qa@gmail.com
 #### - GitHub: https://github.com/MiKseniaQA
